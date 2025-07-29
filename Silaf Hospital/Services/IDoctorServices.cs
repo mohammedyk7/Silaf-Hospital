@@ -4,9 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Silaf_Hospital.Models
+namespace Silaf_Hospital.Services
 {
-    class PatientRecord
+    class IDoctorServices
     {
     }
 }
